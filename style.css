@@ -1,0 +1,27 @@
+body {
+    background-color: #c5dfe0;
+}
+
+#harry {
+    background-color: #8daec3;
+    justify-content: center;
+}
+#historia {
+    background-color: #8daec3;
+}
+
+h1,
+h2 {
+    background-color: #8daec3;
+    text-align-last: center;
+    
+}
+
+img {
+    width: 400px;
+    justify-content: center;
+}
+
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
