@@ -3,11 +3,11 @@ body {
 }
 
 #harry {
-    background-color: #8daec3;
+    background-color: #a6c5d8;
     justify-content: center;
 }
 #historia {
-    background-color: #8daec3;
+    background-color: #a6c5d8;
 }
 
 h1,
@@ -18,10 +18,12 @@ h2 {
 }
 
 img {
-    width: 400px;
+    width: 300px;
     justify-content: center;
 }
 
-p {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+#bgdiscografia {
+    background-color: #8daec3;
+    text-align-last: center;
+    
 }
