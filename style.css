@@ -8,6 +8,7 @@ body {
 }
 #historia {
     background-color: #a6c5d8;
+    justify-content: center
 }
 
 h1,
@@ -26,4 +27,8 @@ img {
     background-color: #8daec3;
     text-align-last: center;
     
+}
+#brits{
+    justify-content: center;
+    width: 300px;
 }
