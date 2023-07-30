@@ -1,30 +1,29 @@
 body {
     background-color: #c5dfe0;
 }
-
-#harry {
-    background-color: #a6c5d8;
-    justify-content: center;
+p {
+    font-size: 100%;
 }
 #historia {
-    background-color: #a6c5d8;
-    justify-content: center
+    align-items: center;
 }
-
-h1,
-h2 {
-    background-color: #8daec3;
-    text-align-last: center;
-    
+h1, h2 {
+    background-color:  #8daec3;
+    text-align: center;
 }
-
 img {
     width: 300px;
     justify-content: center;
 }
-
 #bgdiscografia {
     background-color: #8daec3;
     text-align-last: center;
     
+}
+h3 {
+    text-align: center;
+    font-size: 150%;
+}
+ul {
+    text-align: center;
 }
